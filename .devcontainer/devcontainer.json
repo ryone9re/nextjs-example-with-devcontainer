@@ -9,15 +9,12 @@
 		"vscode": {
 			"extensions": [
 				"dbaeumer.vscode-eslint",
-				"dsznajder.es7-react-js-snippets",
 				"mhutchie.git-graph",
 				"donjayamanne.githistory",
 				"eamodio.gitlens",
 				"oderwat.indent-rainbow",
 				"VisualStudioExptTeam.vscodeintellicode",
 				"VisualStudioExptTeam.intellicode-api-usage-examples",
-				"xabikos.JavaScriptSnippets",
-				"eg2.vscode-npm-script",
 				"christian-kohler.npm-intellisense",
 				"ionutvmi.path-autocomplete",
 				"christian-kohler.path-intellisense",
