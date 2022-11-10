@@ -31,5 +31,6 @@
 		"git": "latest",
 		"git-lfs": "latest"
 	},
-	"shutdownAction": "stopCompose"
+	"shutdownAction": "stopCompose",
+	"postCreateCommand": "sudo chown node node_modules"
 }
